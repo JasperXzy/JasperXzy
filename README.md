@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.jasperxzy.com](https://blog.jasperxzy.com)
 
-- 📫 How to reach me **jasper.zhengyi.xu@gmail.com**
+- 📫 You can reach me with email: **jasper.zhengyi.xu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
