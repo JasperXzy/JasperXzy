@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [D_Robot](https://github.com/JasperXzy/D_Robot)
 
-- 🌱 I’m currently learning **C, Django, Pytorch**
+- 🌱 I’m currently learning **ROS, Cpp, Pytorch**
 
 - 📝 I regularly write articles on [https://blog.jasperxzy.com](https://blog.jasperxzy.com)
 
