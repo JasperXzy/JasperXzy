@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhengyi Xu</h1>
 <h3 align="center">A Python, DeepLearning developer from China</h3>
 
-- 🔭 I’m currently working on [D_Robot](https://github.com/JasperXzy/D_Robot)
+- 🔭 I’m currently working on [racing_segmentation](https://github.com/JasperXzy/racing_segmentation)
 
 - 🌱 I’m currently learning **ROS, DeepLearning**
 
