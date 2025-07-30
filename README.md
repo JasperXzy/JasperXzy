@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [racing_segmentation](https://github.com/JasperXzy/racing_segmentation)
 
-- 🌱 I’m currently learning **ROS, DeepLearning**
+- 🌱 I’m currently learning **ROS**
 
 - 📝 I regularly write articles on [https://blog.jasperxzy.com](https://blog.jasperxzy.com)
 
