@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zhengyi Xu</h1>
-<h3 align="center">A Python, DeepLearning developer from China</h3>
+<h3 align="center">A ROS, DeepLearning developer from China</h3>
 
 - 🔭 I’m currently working on [RDK_Web_ToolChain](https://github.com/JasperXzy/RDK_Web_ToolChain)
 
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **Django, ROS**
 
 - 📝 I regularly write articles on [https://blog.jasperxzy.com](https://blog.jasperxzy.com)
 
