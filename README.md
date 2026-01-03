@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zhengyi Xu</h1>
 <h3 align="center">A ROS, DeepLearning developer from China</h3>
 
-- 🔭 I’m currently working on [AuraCar](https://github.com/JasperXzy/AuraCar)
+- 🔭 I’m currently working on [OmniLocation](https://github.com/JasperXzy/OmniLocation)
 
-- 🌱 I’m currently learning **Ascend CANN, ROS2**
+- 🌱 I’m currently learning **ROS2**
 
 - 📝 I regularly write articles on [https://blog.jasperxzy.com](https://blog.jasperxzy.com)
 
